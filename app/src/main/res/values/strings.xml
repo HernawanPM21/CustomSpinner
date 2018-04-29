@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CustomSpinner</string>
+    <string-array name="negara">
+        <item>China</item>
+        <item>England</item>
+        <item>Indonesia</item>
+        <item>India</item>
+        <item>Jepang</item>
+        <item>Korea</item>
+        <item>Malaysia</item>
+        <item>Singapura</item>
+        <item>Amerika</item>
+    </string-array>
+</resources>
